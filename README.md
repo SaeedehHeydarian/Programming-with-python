@@ -1,5 +1,5 @@
 # Programming-with-python
-### This course, Advanced Programming with Python, was introduced by Maktabkhoone. One of the greatest features of this course is that the teacher, Jadi Mirmirani, is an expert in programming.
+### This course, Advanced Programming with Python, was introduced by Maktabkhoone. 
 
 Start with the Introduction:
 - Read the introductory section of the README file. This section usually overviews the course, its objectives, and what you can expect to learn.
